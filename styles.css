@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  #FFB9B9;
+    color: #D36B00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto Slab', serif;
+}
+
+#game {
+    display: flex ;
+    background-color:  #C499BA ;
+}
+
+.card {
+    width: 160px;
+    height: 120px;
+    background-color: #FFDE00;
+    border: solid #97D2EC 10px; 
+    border-radius: 50px;
+    text-align: center;
+    font-size: 100px;
+    margin: 5px;
+    padding: 10px;
+    line-height: 120px;  
+}
+
+.first-button {
+    background-color: #7DCE13;
+    color: #5800FF;
+}
+
+.second-button {
+    background-color: #89CFFD;
+    color: #5800FF;
+}
+
+.genero-title {
+    background-color: #2B7A0B;
+    text-align: center;
+    border: solid 5px;
+    border-radius: 30px;
+    height: 40px;
+    color: #D4F6CC;
+    font-size: 32px;
+}
+
+.answer-correct {
+    background-color: #F7F7F7;
+}
+
+.answer-wrong {
+    background-color: #F806CC;
+}
