@@ -27,17 +27,17 @@ body{
     font-size: 12rem;
     margin: 5px;
     padding: 10px;
-    line-height: 120px;  
+    line-height: 100px;  
 }
 
 .first-button {
     background-color: #7DCE13;
-    color: #5800FF;
+    color: #00ffea;
 }
 
 .second-button {
-    background-color: #89CFFD;
-    color: #00d9ff;
+    background-color: #fd8989;
+    color: #d400ff;
 }
 
 .genero-title {
