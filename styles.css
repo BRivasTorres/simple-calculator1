@@ -3,8 +3,8 @@
 body{
     margin: 0;
     padding: 0;
-    background-color:  #FFB9B9;
-    color: #D36B00;
+    background-color:  #f7b9ff;
+    color: #89d300;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ body{
     border: solid #97D2EC 10px; 
     border-radius: 50px;
     text-align: center;
-    font-size: 100px;
+    font-size: 12rem;
     margin: 5px;
     padding: 10px;
     line-height: 120px;  
@@ -37,16 +37,16 @@ body{
 
 .second-button {
     background-color: #89CFFD;
-    color: #5800FF;
+    color: #00d9ff;
 }
 
 .genero-title {
-    background-color: #2B7A0B;
+    background-color: #230b7a;
     text-align: center;
     border: solid 5px;
     border-radius: 30px;
     height: 40px;
-    color: #D4F6CC;
+    color: #f6f5cc;
     font-size: 32px;
 }
 
@@ -55,5 +55,5 @@ body{
 }
 
 .answer-wrong {
-    background-color: #F806CC;
+    background-color: #f80606;
 }
