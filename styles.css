@@ -3,8 +3,8 @@
 body{
     margin: 0;
     padding: 0;
-    background-color:  #f7b9ff;
-    color: #89d300;
+    background-color:  #000000;
+    color: #15ff00;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,11 +20,11 @@ body{
 .card {
     width: 160px;
     height: 120px;
-    background-color: #FFDE00;
-    border: solid #97D2EC 10px; 
+    background-color: #0e2de0;
+    border: solid #ff0000 10px; 
     border-radius: 50px;
     text-align: center;
-    font-size: 12rem;
+    font-size: 6rem;
     margin: 5px;
     padding: 10px;
     line-height: 100px;  
