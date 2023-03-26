@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 10px;
-    background-color: aquamarine;
+    background-color: rgb(129, 206, 41);
 }
 
 .calculadora-grilla {
@@ -14,11 +14,11 @@ body {
 }
 
 .estilos-button:hover {
-    background-color: rgb(255, 232, 127);
+    background-color: rgb(127, 229, 255);
 }
 
 .estilos-button1:hover {
-    background-color: rgb(176, 127, 255);
+    background-color: rgb(255, 127, 127);
 }
 
 .calculadora-grilla > button {
