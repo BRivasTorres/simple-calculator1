@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 10px;
-    background-color: rgb(129, 206, 41);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgb(94, 95, 94) 100%);
 }
 
 .calculadora-grilla {
@@ -14,26 +14,26 @@ body {
 }
 
 .estilos-button:hover {
-    background-color: rgb(127, 229, 255);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 255, 0, 1) 100%);
 }
 
 .estilos-button1:hover {
-    background-color: rgb(255, 127, 127);
+    background: linear-gradient(180deg, rgba(0, 255, 0, 1) 0%, rgba(0, 0, 0, 1) 82%);
 }
 
-.calculadora-grilla > button {
+.calculadora-grilla>button {
     cursor: pointer;
     font-size: 2rem;
     border: 2px solid rgb(48, 30, 212);
     outline: none;
-    background-color: orangered;
+    background-color: rgba(0, 255, 0, 1);
     height: 100px;
     border-radius: 10px;
-} 
+}
 
 .output {
     grid-column: 1 / -1;
-    background-color: rgb(205, 50, 153);
+    background-color: rgb(83, 199, 83);
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
